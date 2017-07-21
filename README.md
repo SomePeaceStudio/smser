@@ -1,5 +1,5 @@
 # smser
-A python script that gets the weather forecast from [OpenWeatherMap](https://openweathermap.org) API translates it into Latvian with Google translator and then sends it to the specified phones using [Twilio API](https://www.twilio.com/). 
+A python script that gets the weather forecast from [OpenWeatherMap](https://openweathermap.org) API translates it into Latvian with Google translator and then sends it via SMS to the specified phones using [Twilio API](https://www.twilio.com/). 
 
 # To Run
 First, install python library for twilio:
